@@ -248,7 +248,7 @@ createdBy	User’s email address
 
 📍 All interview sessions are stored securely in this schema for history, feedback, or training purposes.
 
-
+![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/9219523139a8f59ff20574ff416141b67cc3915c/database.png)
 
 
 
