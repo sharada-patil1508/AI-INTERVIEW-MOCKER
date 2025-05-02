@@ -256,3 +256,5 @@ stored information
 
 ![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/6176a40770b56f9c3fe3021ea98642d2002e899d/user_ifo_in_database.png)
 
+
+![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/e6aab57a8492762c5d65fbcf9e18e5372bad61ca/user_info_in_database.png)
