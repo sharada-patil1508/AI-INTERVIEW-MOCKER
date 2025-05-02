@@ -1,3 +1,40 @@
+💡 Project: AI-Interview-Mocker
+
+AI-Interview-Mocker is an AI-powered web application designed to help users practice mock interviews online. This project integrates Gemini AI to generate interview questions dynamically based on user input, creating a personalized and realistic interview environment.
+
+🧠 Key Features
+
+
+AI-Powered Interviews:
+Uses Gemini AI to intelligently generate questions tailored to your role, skillset, and experience level.
+
+Personalized Setup:
+Before starting the interview, users provide:
+
+Job Role/Position (e.g., Full Stack Developer)
+
+Skills/Tech Stack (e.g., React, Node.js, MySQL)
+
+Years of Experience
+
+Dynamic Question Generation:
+Based on the provided details, the system dynamically creates a mock interview session with relevant and adaptive questions.
+
+Real-Time Interaction:
+Users can engage in mock interview sessions that mimic real-world technical interviews, helping them build confidence and identify areas for improvement.
+
+🚀 Tech Stack
+Next.js (with Turbopack)
+
+pnpm (package manager)
+
+Gemini AI (for intelligent question generation)
+
+React (frontend)
+
+Tailwind CSS (UI styling)
+
+
 To run this Next.js project using pnpm, follow the steps below
 
 
