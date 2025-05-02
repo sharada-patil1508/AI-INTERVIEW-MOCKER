@@ -26,3 +26,33 @@ Users can click on the "+ Add new Interview" button to initiate a new mock inter
 ![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/e18b1d46594d3437db1fc3a3ae0f42d7dbcf8485/Dashboard.png)
 
 
+Create a New AI Mock Interview
+When the user clicks "+ Add new Interview" from the Dashboard, a modal form appears to gather basic information about the user's job profile. This information helps the system generate a personalized mock interview session.
+
+📋 Modal Form Fields:
+
+Job Role / Job Position:
+
+Example: Full Stack Developer, Data Analyst, DevOps Engineer
+
+This helps the AI tailor the questions based on the job role.
+
+Job Description / Tech Stack:
+
+Enter relevant technologies or responsibilities.
+
+Example: React, Node.js, MongoDB, or Cloud deployment, Docker, Kubernetes
+
+Year of Experience:
+
+Number of years the candidate has worked in the specified role.
+
+This helps scale the complexity of the questions (e.g., basic for 1 year, advanced for 5+ years).
+
+🎯 Purpose:
+
+Once the user fills out this information and clicks Start Interview, the app initiates a mock interview experience using the provided inputs, simulating real-world technical or HR-style questions.
+
+This approach ensures that every interview session is customized, making it highly relevant for practice or preparation.
+
+
