@@ -1,4 +1,4 @@
-@ -1,260 +1,36 @@
+
  💡 Project: AI-Interview-Mocker
  This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
  
@@ -34,6 +34,7 @@
  
  Years of Experience
  To learn more about Next.js, take a look at the following resources:
+
  
  Dynamic Question Generation:
  Based on the provided details, the system dynamically creates a mock interview session with relevant and adaptive questions.
