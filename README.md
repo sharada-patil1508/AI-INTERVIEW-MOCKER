@@ -194,3 +194,61 @@ Questions generated based on profile
 Webcam stream and real-time transcription
 
 ![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/8f8b61c61a969d81741ef491c4d69ad419a1c59a/interview.png)
+
+
+
+
+🛠️ How It Works (Full Flow)
+User Input Phase
+
+User enters:
+
+Job Role (e.g., Full Stack Developer)
+
+Skills
+
+Experience (e.g., 3 years)
+
+A unique mockId is generated for the session.
+
+This data is stored in the userdata table in the PostgreSQL backend (as seen in the screenshot).
+
+Dynamic Question Generation
+
+Based on the profile, Gemini AI generates a JSON object of questions.
+
+The questions are stored in the column jsonMockResp against the mockId.
+
+Interview Session Begins
+
+Webcam and microphone are activated.
+
+User answers each question while being recorded.
+
+Live transcription captures answers.
+
+Recording + Feedback
+
+After all questions, user gets:
+
+Their own transcribed answers
+
+AI-suggested ideal answers
+
+Optional performance feedback
+
+🗃️ Backend Database (PostgreSQL)
+
+Column Name	Description
+id	Auto-increment primary key
+jsonMockResp	JSON array of generated questions
+jobPosition	User-inputted role (e.g., Backend Developer)
+jobExperience	Years of experience
+createdBy	User’s email address
+
+📍 All interview sessions are stored securely in this schema for history, feedback, or training purposes.
+
+
+
+
+
