@@ -56,3 +56,4 @@ Once the user fills out this information and clicks Start Interview, the app ini
 This approach ensures that every interview session is customized, making it highly relevant for practice or preparation.
 
 
+![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/52829a4b14c63ea9deca87b5365f59eb16c52684/Screenshot%202025-05-01%20222910.png)
