@@ -25,9 +25,13 @@
  Personalized Setup:
  Before starting the interview, users provide:
  You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+  This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+
+
+  
  
  Job Role/Position (e.g., Full Stack Developer)
- This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+
  
  Skills/Tech Stack (e.g., React, Node.js, MySQL)
  ## Learn More
