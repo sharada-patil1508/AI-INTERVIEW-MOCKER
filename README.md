@@ -129,3 +129,18 @@ Session Management:
 The session can be reused or referenced later using the unique key, supporting seamless interview mock-up workflows and analytics.
 
 ![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/0e437d321a6e015c119482d9db84e15515833da6/user_personal_key.png)
+
+
+🚀 How It Works
+
+User fills in job info
+Inputs like job role and experience are collected.
+
+Start Interview
+User clicks "Enable Web Cam and Microphone" and then "Start Interview".
+
+Gemini AI in Action
+Based on the input, the system fetches tailored interview questions from Gemini AI.
+
+Session Management
+A session key is created and saved, allowing users to track progress and revisit interviews.
