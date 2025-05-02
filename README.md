@@ -127,3 +127,5 @@ Based on the provided inputs, Gemini AI generates a tailored set of mock intervi
 
 Session Management:
 The session can be reused or referenced later using the unique key, supporting seamless interview mock-up workflows and analytics.
+
+![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/0e437d321a6e015c119482d9db84e15515833da6/user_personal_key.png)
