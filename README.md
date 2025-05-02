@@ -193,4 +193,4 @@ Questions generated based on profile
 
 Webcam stream and real-time transcription
 
-
+![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/8f8b61c61a969d81741ef491c4d69ad419a1c59a/interview.png)
