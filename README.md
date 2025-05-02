@@ -252,3 +252,7 @@ createdBy	User’s email address
 
 
 
+stored information
+
+![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/6176a40770b56f9c3fe3021ea98642d2002e899d/user_ifo_in_database.png)
+
