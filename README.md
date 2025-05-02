@@ -94,3 +94,36 @@ This approach ensures that every interview session is customized, making it high
 
 
 ![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/52829a4b14c63ea9deca87b5365f59eb16c52684/Screenshot%202025-05-01%20222910.png)
+
+
+
+🔐 Interview Flow & Data Handling
+
+Once a user starts the interview:
+
+User Input Collection:
+The user is prompted to enter essential details such as:
+
+Job Role / Position
+
+Tech Stack / Skills
+
+Years of Experience
+
+Unique Interview Key Generation:
+A unique interview ID (key) is generated dynamically. This key serves as a session identifier and allows the system to retrieve and manage interview data associated with the specific user.
+
+Data Handling & Storage:
+The collected information is securely stored in the backend using the unique key, enabling:
+
+Retrieval of interview session history
+
+Analysis and reuse for future personalized sessions
+
+Feedback generation
+
+Question Generation with Gemini AI:
+Based on the provided inputs, Gemini AI generates a tailored set of mock interview questions in real time.
+
+Session Management:
+The session can be reused or referenced later using the unique key, supporting seamless interview mock-up workflows and analytics.
