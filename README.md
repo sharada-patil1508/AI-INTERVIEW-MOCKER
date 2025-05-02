@@ -5,7 +5,6 @@
  AI-Interview-Mocker is an AI-powered web application designed to help users practice mock interviews online. This project integrates Gemini AI to generate interview questions dynamically based on user input, creating a personalized and realistic interview environment.
  ## Getting Started
  
- 🧠 Key Features
  First, run the development server:
  
  ```bash
@@ -20,6 +19,7 @@
  
  AI-Powered Interviews:
  Uses Gemini AI to intelligently generate questions tailored to your role, skillset, and experience level.
+ 
  Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
  
  Personalized Setup:
@@ -37,18 +37,23 @@
  
  Dynamic Question Generation:
  Based on the provided details, the system dynamically creates a mock interview session with relevant and adaptive questions.
+ 
  - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+ - 
  - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
  
  Real-Time Interaction:
  Users can engage in mock interview sessions that mimic real-world technical interviews, helping them build confidence and identify areas for improvement.
+ 
  You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
  
  🚀 Tech Stack
+ 
  Next.js (with Turbopack)
  ## Deploy on Vercel
  
  pnpm (package manager)
+ 
  The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
  
  Gemini AI (for intelligent question generation)
@@ -72,8 +77,7 @@
  
  
  
- 
- 
+
  ![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/14566e17c763a05598bd499f62615851c4541919/Screenshot%202025-05-01%20213228.png)
  
  Dashboard Overview
@@ -83,6 +87,7 @@
  ✨ Key Features:
  Add New Interview:
  Users can click on the "+ Add new Interview" button to initiate a new mock interview session. This will guide them through creating an AI-driven interview experience.
+ 
  ![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/e18b1d46594d3437db1fc3a3ae0f42d7dbcf8485/Dashboard.png)
  
  
@@ -216,7 +221,7 @@
  
  Webcam stream and real-time transcription
  
- ![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/8f8b61c61a969d81741ef491c4d69ad419a1c59a/interview.png)
+![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/ba3f790e8a9b52251c39c00ee36910666baf3f96/interview.png)
  
  
  
