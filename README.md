@@ -144,3 +144,5 @@ Based on the input, the system fetches tailored interview questions from Gemini 
 
 Session Management
 A session key is created and saved, allowing users to track progress and revisit interviews.
+
+![image alt}(https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/1a0d14a60beb3abe7adba00645e0a540fea0f8b8/start_interview.png)
