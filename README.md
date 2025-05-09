@@ -1,21 +1,7 @@
 
- 💡 Project: AI-Interview-Mocker
- This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
  
- AI-Interview-Mocker is an AI-powered web application designed to help users practice mock interviews online. This project integrates Gemini AI to generate interview questions dynamically based on user input, creating a personalized and realistic interview environment.
- ## Getting Started
- 
- First, run the development server:
- 
- ```bash
- npm run dev
- # or
- yarn dev
- # or
- pnpm dev
- # or
- bun dev
- ```
+
  
  AI-Powered Interviews:
  Uses Gemini AI to intelligently generate questions tailored to your role, skillset, and experience level.
