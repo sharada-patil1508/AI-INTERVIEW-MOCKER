@@ -1,4 +1,20 @@
+📘 Introduction
 
+AI-Interview Mocker is an AI-driven web application developed using Next.js that simulates a mock interview experience for users. It leverages Gemini AI to dynamically generate interview questions tailored to the user’s job role, work experience, and specified skills.
+
+🔷 How It Works:
+
+Registration: Users register using their email ID to create a unique profile.
+
+Profile Setup: Users provide key information such as job role, work experience, and relevant skills.
+
+Interview Generation: Based on the provided data, Gemini AI generates a set of interview questions in real-time.
+
+Mock Interview Session: The user can start the mock interview session, during which they will respond to the questions while the system records and transcribes their answers.
+
+Feedback & Analysis: After completing the interview, the application provides feedback, ideal responses, and performance insights to help users improve their interview skills.
+
+📦 Backend: All user data and interview sessions are stored in a PostgreSQL database, ensuring data integrity and easy retrieval for future analysis.
  
  
  To run this Next.js project using pnpm, follow the steps below
