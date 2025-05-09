@@ -15,7 +15,10 @@ Mock Interview Session: The user can start the mock interview session, during wh
 Feedback & Analysis: After completing the interview, the application provides feedback, ideal responses, and performance insights to help users improve their interview skills.
 
 📦 Backend: All user data and interview sessions are stored in a PostgreSQL database, ensuring data integrity and easy retrieval for future analysis.
- 
+
+
+ SignIn page 
+ ![image alt](https://github.com/sharada-patil1508/AI-INTERVIEW-MOCKER/blob/95a12a6167eaea015dacca559a862bb4cb4e37ca/Screenshot%20(183).png)
  
  To run this Next.js project using pnpm, follow the steps below
  
